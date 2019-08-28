@@ -1,0 +1,13 @@
+{
+  "name": "Dev Container Definition",
+  "extensions": [],
+  "dockerComposeFile": [
+    "../docker-compose.yml",
+    "docker-compose.devcontainer.yml"
+  ],
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "settings": {
+    "terminal.integrated.shell.linux": "bash"
+  }
+}

@@ -1,0 +1,8 @@
+export { default as Dashboard } from './Dashboard'
+export { default as Projects } from './Projects'
+export { default as AllResources } from './AllResources'
+export { default as VirtualMachines } from './VirtualMachines'
+export { default as Containers } from './Containers'
+export { default as ObjectStorages } from './ObjectStorages'
+export { default as Users } from './Users'
+export { default as Support } from './Support'
